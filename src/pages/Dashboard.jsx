@@ -130,7 +130,7 @@ export function Dashboard() {
               <p className="text-xs text-muted-foreground text-center">Just 15 more minutes to reach your goal!</p>
             </CardContent>
           </GlassCard>
-        </div>
+        </motion.div>
       </div>
     </motion.div>
   );
